@@ -1,6 +1,6 @@
 # Mausam
 
-Mausam is a web application built to check weather across different cities. It is developed using HTML, CSS, JavaScript, Java, Servlets, JSP, and utilizes the OpenWeather API.
+Mausam is a web application built to check weather across different cities. It is developed using HTML, CSS, JavaScript, Java, Servlets, JSP, and utilizes the OpenWeather API. Based on searching areas of weather's 
 
 ## Getting Started
 
