@@ -6,7 +6,7 @@ Mausam is a web application built to check weather across different cities. It i
 
 ### Prerequisites
 
-- Java Development Kit (JDK)
+- Java Development Kit (JDK) preferred 17
 - Apache Tomcat server (or any other servlet container)
 - Eclipse IDE (or any other Java IDE) { More preferrable }
 - Internet connection (for fetching weather data from OpenWeather API)
